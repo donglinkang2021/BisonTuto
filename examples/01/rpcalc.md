@@ -1,5 +1,7 @@
 # Reverse Polish Notation Calculator
 
+A simple calculator that uses Reverse Polish Notation (RPN) to evaluate expressions.
+
 ## Declarations for `rpcalc.y`
 
 | code | description |

@@ -21,4 +21,4 @@ add_executable(
     ${LEXER_OUT}
     ${PARSER_OUT}
 )
-target_include_directories(calc PRIVATE "${PARSER_DIR}")
+target_include_directories(calc PRIVATE ${PARSER_DIR})
